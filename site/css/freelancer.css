@@ -18,6 +18,13 @@ h6 {
   font-family: 'Montserrat';
 }
 
+.danslevert{
+	color: white;
+}
+.dansleblanc{
+	color:#18BC9C;
+}
+
 hr.star-light,
 hr.star-dark {
   max-width: 15rem;
